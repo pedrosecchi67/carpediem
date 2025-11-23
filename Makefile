@@ -1,6 +1,7 @@
 BINDIR="$(CURDIR)"
 
 build:
+	@go mod tidy
 	@go build carpediem.go
 
 setup-path:

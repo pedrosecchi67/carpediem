@@ -8,7 +8,7 @@ You can add this to your work computer's bashrc to have a slightly more bearable
 
 ```bash
 make all # lol that's it.
-# pressuposes bash or zsh
+# pressuposes bash or zsh, and go
 ```
 
 ## Usage
