@@ -1,6 +1,6 @@
 # carpediem
 
-`carpediem` is a command line tool to print random poems from The Poetry Foundation's database on your terminal.
+`carpediem` is a command line tool to print random poems from The Poetry Foundation's database to your terminal.
 
 You can add this to your work computer's bashrc to have a slightly more bearable day.
 
